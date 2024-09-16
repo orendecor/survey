@@ -1,3 +1,6 @@
+Loom:
+https://www.loom.com/share/6f6b8a8fc0e945348512d5391384631b?sid=aedbdb63-ceae-4318-8b06-6cf697de870b
+
 ## Plan
 
 - UI
